@@ -1,4 +1,3 @@
-// Генерирует лабиринт с использованием алгоритма Recursive Backtracking и выход на следующий уровень
 using UnityEngine;
 
 public class MazeGenerator : MonoBehaviour
